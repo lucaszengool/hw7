@@ -1,0 +1,10 @@
+# Compiled output - the handout asks that generated files not be committed
+*.class
+bin/
+classes/
+
+# Worker storage created while testing
+__worker/
+
+# macOS
+.DS_Store
